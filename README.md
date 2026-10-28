@@ -42,7 +42,8 @@ docs/                   report PDF, charts, build guide, performance record
 ```
 
 ## Links (fill in)
-- Tableau Public dashboard: ADD LINK
+- Tableau Public dashboard: https://public.tableau.com/shared/R9XFNR4T7?:display_count=n&:origin=viz_share_link
+- Tableau Public Story: https://public.tableau.com/views/EVprojectstory/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - Demo video: ADD LINK
 
 ## Note on the data
